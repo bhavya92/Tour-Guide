@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="eventOne">Democracy And Peace</string>
+    <string name="eventTwo">The Line Up</string>
+    <string name="eventThree">Memesis</string>
+    <string name="eventFour">Rembrandt and The Mughal Line</string>
+    <string name="eventFive">The Utopian World</string>
+    <string name="eventSix">Antraal : Space In Between</string>
+    <string name="eventSeven">Who Am I?</string>
+    <string name="eventEight">Earth Worms</string>
+    <string name="eventNine">Retro In A Metro</string>
+    <string name="eventTen">Mian Biwi Aur Wagah</string>
+
+    <string name="eventAddOne">Teen Murti House, Teen Murti Marg </string>
+    <string name="eventAddTwo">Canvas Laugh Club at The People and Co. Premises No. 5, Building No. 8, Tower-B, Cyber City, Gurugram </string>
+    <string name="eventAddThree">Akshara Theatre, 11-12 B, Baba Kharak Singh Marg </string>
+    <string name="eventAddFour">School of Arts and Aesthetics Auditorium (SAA), Jawaharlal Nehru University (JNU), New Mehrauli Road</string>
+    <string name="eventAddFive"> Open Palm Court Gallery, India Habitat Centre (IHC), Lodhi Road </string>
+    <string name="eventAddSix">Triveni Kala Sangam, 205, Tansen Marg </string>
+    <string name="eventAddSeven">Sector 15,Rohini</string>
+    <string name="eventAddEight">Triveni Kala Sangam, 205, Tansen Marg</string>
+    <string name="eventAddNine">The Stein Auditorium &amp; Gulmohar Hall, India Habitat Centre (IHC), Lodhi Road </string>
+    <string name="eventAddTen">The Stein Auditorium, India Habitat Centre (IHC), Lodhi Road </string>
+
+    <string name="cafeOne">Cafe Lota</string>
+    <string name="cafeTwo">Perch Wine &amp; Coffee Bar</string>
+    <string name="cafeThree">Coast Cafe</string>
+    <string name="cafeFour">Glenz Cafe &amp; Bakers</string>
+    <string name="cafeFive">Starbucks</string>
+    <string name="cafeSix">Ama Cafe</string>
+    <string name="cafeSeven">L\'Opera</string>
+    <string name="cafeEight">Coast Cafe</string>
+    <string name="cafeNine">Cafe Voyage</string>
+    <string name="cafeTen">Chaayos</string>
+
+    <string name="cafeAddOne">Bhairon Road, Near Pragati Maidan Metro Station, New Delhi 110001</string>
+    <string name="cafeAddTwo">Khan Market, New Delhi 110003</string>
+    <string name="cafeAddThree">2nd Floor H - 2 Aurobindo Marg | Above Ogaan, Hauz Khas Village</string>
+    <string name="cafeAddFour">5/2 West Extension Area Saraswati Marg | Opposite Swati Hotel, New Delhi 110005</string>
+    <string name="cafeAddFive">16, Block N, Outer Circle, Opposite Scindia House, Connaught Place | Opposite Scindia House, New Delhi</string>
+    <string name="cafeAddSix">1st Floor 6 Near New Tibetan Camp, New Delhi 110006</string>
+    <string name="cafeAddSeven">Ground Floor 5b Near Full Circle Book Store | Khan Market, Rabindra Nagar</string>
+    <string name="cafeAddEight">2nd Floor H - 2 Aurobindo Marg | Above Ogaan, Hauz Khas Village</string>
+    <string name="cafeAddNine">7874 Sang Trashan Road | Ram Nagar, New Delhi 110055</string>
+    <string name="cafeAddTen">Connaught Place | F-14/15, Mezzanine, 1st Floor, F Block, New Delhi 110001</string>
+
+    <string name="historicalSiteOne">Humayun\'s Tomb</string>
+    <string name="historicalSiteTwo">Lodi Gardens</string>
+    <string name="historicalSiteThree">India Gate</string>
+    <string name="historicalSiteFour">Gandhi Smriti</string>
+    <string name="historicalSiteFive">Red Fort (Lal Quila)</string>
+    <string name="historicalSiteSix">Raj Ghat</string>
+    <string name="historicalSiteSeven">Purana Qila</string>
+    <string name="historicalSiteEight">Agrasen Ki Baoli</string>
+    <string name="historicalSiteNine">Majnu ka Tilla</string>
+    <string name="historicalSiteTen">Talkatora Garden</string>
+
+    <string name="historicalSiteAddOne">East Nizamudhin | Opp Nizamuddin Mosque, New Delhi 110013</string>
+    <string name="historicalSiteAddTwo">Lodi Road, New Delhi 110002, India</string>
+    <string name="historicalSiteAddThree">Near Connaught Place New Delhi, New Delhi 110001</string>
+    <string name="historicalSiteAddFour">5 Tees January Marg, New Delhi 110011</string>
+    <string name="historicalSiteAddFive">Netaji Subhash Marg, New Delhi 110002, India</string>
+    <string name="historicalSiteAddSix">Mahatma Gandhi Road, New Delhi 110002, India</string>
+    <string name="historicalSiteAddSeven">New Delhi, India</string>
+    <string name="historicalSiteAddEight">Hailey Road, K.G. Marg | Block G,22 Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="historicalSiteAddNine">G.T. Road, New Delhi 110002, India</string>
+    <string name="historicalSiteAddTen">Mother Teresa Crescent, New Delhi, India</string>
+
+    <string name="hotelOne">The LaLiT New Delhi</string>
+    <string name="hotelTwo">HOTEL JW MARRIOTT DELHI AEROCITY</string>
+    <string name="hotelThree">ITC MAURYA</string>
+    <string name="hotelFour">Hotel Oberoi Maidens</string>
+    <string name="hotelFive">Sheraton</string>
+    <string name="hotelSix">The Park</string>
+    <string name="hotelSeven">SHANGRI-LA EROS</string>
+    <string name="hotelEight">LE MERIDIEN</string>
+    <string name="hotelNine">HYATT REGENCY</string>
+    <string name="hotelTen">TAJ PALACE</string>
+
+    <string name="hotelAddOne">Bharakhmba Road, New Delhi</string>
+    <string name="hotelAddTwo">Asset Area 4 Hospitality Delhi, Aerocity, Indira Gandhi International Airport, New Delhi, Delhi 110037</string>
+    <string name="hotelAddThree">Sardar Patel Marg, Diplomatic Enclave, Malcha, New Delhi, Delhi 110021</string>
+    <string name="hotelAddFour">7, Sham Nath Marg, Civil Lines, New Delhi, Delhi 110054</string>
+    <string name="hotelAddFive">District Centre, Saket, New Delhi, Delhi 110017</string>
+    <string name="hotelAddSix">15 Parliament Street Connaught Place, New Delhi 110001</string>
+    <string name="hotelAddSeven">19, Ashoka Road, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="hotelAddEight">8 Windsor Place, New Delhi, Delhi 110001</string>
+    <string name="hotelAddNine">Bhikaiji Cama Place - Ring Road, New Delhi 110066</string>
+    <string name="hotelAddTen">Plot No. 6, Community Center, Mayur Vihar Phase III, New Delhi, Delhi 110096</string>
+
+    <string name="tabOptionOne">Events</string>
+    <string name="tabOptionTwo">Restaurants &amp; Cafe</string>
+    <string name="tabOptionThree">Historical Sites</string>
+    <string name="tabOptionFour">Hotels</string>
+
+</resources>
+
+
