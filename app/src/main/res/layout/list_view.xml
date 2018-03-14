@@ -6,4 +6,4 @@
     android:layout_height="match_parent"
     android:drawSelectorOnTop="true"
     android:orientation="vertical"
-    tools:context=".MainActivity"></ListView>
+    tools:context=".MainActivity" />
